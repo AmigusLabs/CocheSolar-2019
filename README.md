@@ -1,4 +1,8 @@
 # CocheSolar-2019
 Coche Solar 2019
 
-Más información en http://www.amiguslabs.org/portfolio_page/amigus-labs-coche-solar/
+![alt text](https://github.com/AmigusLabs/CocheSolar-2019/blob/master/jpgs/coche_1.jpeg)
+![alt text](https://github.com/AmigusLabs/CocheSolar-2019/blob/master/jpgs/coche_2.jpeg)
+![alt text](https://github.com/AmigusLabs/CocheSolar-2019/blob/master/jpgs/coche_3.jpeg)
+
+Más información en go](http://www.amiguslabs.org/portfolio_page/amigus-labs-coche-solar/){:target="_blank"}.
